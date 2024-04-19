@@ -1,1 +1,1 @@
-# PRODIGY_DS_05
+This code generates  accident data for road conditions, weather conditions, and time of day, then visualizes accident hotspots, contributing factors, and accidents by time of day. You can adapt this code to work with your actual dataset once you have it. Just replace the data generation part with reading your dataset into a DataFrame.
